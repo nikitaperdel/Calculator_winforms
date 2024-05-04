@@ -1,4 +1,4 @@
-#include "MyForm.h"
+#include "CalcForm.h"
 
 int main() {
     WinForms::Application::EnableVisualStyles();
